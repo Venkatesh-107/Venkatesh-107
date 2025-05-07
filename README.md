@@ -1,6 +1,5 @@
 # R-Venkatesh
 -----
-# ![Programming Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+R+Venkatesh's+GitHub)
 
 <h1 align="center">Hi 👋, I'm R Venkatesh</h1>
 
