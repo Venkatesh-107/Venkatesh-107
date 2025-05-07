@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>B.Tech IT student at Annai Mira College of Engineering and Technology</i><br>
-  <i>Python | Java | C | Tech Explorer</i>
+  <i>Tech Explorer</i>
 </p>
 
 ---
@@ -19,10 +19,15 @@
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -30,10 +35,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvenkatesh&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-107&layout=compact&theme=radical" height="165">
 </p>
-
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-107&show_icons=true&theme=radical" height="165">
+</p>
 ---
 
 ## 📂 Featured Projects
@@ -47,7 +53,7 @@
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/)  
+
 - [GitHub](https://github.com/Venkatesh-107)  
 - ✉️ Email:Venkateshvenky4910@gmail.com
 
