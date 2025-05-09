@@ -47,7 +47,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **Air Quality Predictor** | Forecasts air quality using weather + LSTM | Python, Streamlit, ML |
-| *(More Coming Soon)* |  |  |
+| *Smart Noise Pollution ** | Determine the decibels level + Leaflit.js | javascript ,HTML,Firebase |
 
 ---
 
