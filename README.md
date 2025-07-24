@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me
 
--[Linkedin](https://www.linkedin.com/in/venkatesh-r107)
+- [Linkedin](https://www.linkedin.com/in/venkatesh-r107)
 - [GitHub](https://github.com/Venkatesh-107)  
 - ✉️ Email:Venkateshvenky4910@gmail.com
 
