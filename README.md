@@ -3,63 +3,74 @@
 <p align="center">
   <b>B.Tech Information Technology Student</b><br>
   Annai Mira College of Engineering and Technology (Anna University)<br>
-  AI • ML • Web Development • Problem Solving
+  AI • Machine Learning • Web Development • Problem Solving
 </p>
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/venkatesh-r107">LinkedIn</a> •
-  💻 <a href="https://github.com/Venkatesh-107">GitHub</a>
+  <a href="https://www.linkedin.com/in/venkatesh-r107">LinkedIn</a> •
+  <a href="https://github.com/Venkatesh-107">GitHub</a> •
+  <a href="mailto:Venkateshvenky4910@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am an **Information Technology undergraduate** with a strong interest in **Artificial Intelligence, Machine Learning, and full-stack web development**.  
-I focus on **building practical, real-world projects** that solve meaningful problems, especially in **healthcare, agriculture, and environmental monitoring**.
-
-📌 Currently exploring:
-- Machine Learning & Data-Driven Models  
-- AI-powered Web Applications  
-- IoT-based monitoring systems  
+I am an **Information Technology undergraduate** passionate about building **real-world applications** using **AI, Machine Learning, and Web technologies**.  
+I believe in **learning by doing** and enjoy working on projects related to **agriculture, healthcare, and environmental monitoring**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Scripting**  
-Python • C • Java • JavaScript  
+**Programming Languages**  
+• Python • C • Java • JavaScript  
 
 **Web Technologies**  
-HTML • CSS • JavaScript • Streamlit  
+• HTML • CSS • JavaScript • Streamlit  
 
 **AI / ML**  
-Machine Learning • Data Preprocessing • Model Evaluation • RAG Basics  
+• Machine Learning  
+• Data Preprocessing & Model Training  
+• Retrieval-Augmented Generation (RAG – basics)  
 
 **Tools & Platforms**  
-Git • GitHub • Firebase • Render • Railway  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-107&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-107&layout=compact&theme=radical" height="165"/>
-</p>
+• Git • GitHub  
+• Firebase • Render • Railway  
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Impact & Learning | Tech Stack |
-|-------|------------------|------------|
-| **AI Sugarcane Yield Prediction** 🌱 | Built a ML model to predict sugarcane yield using soil and weather parameters, helping understand agri-tech decision support systems | Python, ML, Pandas, Scikit-learn |
-| **Air Quality Prediction System** 🌍 | Forecasted air quality using weather data and time-series models for environmental monitoring | Python, ML, Streamlit |
-| **Healthcare RAG Chatbot** 🏥 | Developed a chatbot that retrieves and answers healthcare queries using RAG concepts | Python, RAG, Web App |
-| **Smart Noise Pollution Monitoring** 🔊 | Designed an IoT-based system to measure and visualize noise levels | JavaScript, Firebase, Leaflet.js |
+### 🌱 AI Sugarcane Yield Prediction
+Machine learning project to predict sugarcane yield using soil and weather parameters, focused on agricultural decision support.
 
-👉 **View all projects:**  
+**Tech:** Python, ML, Pandas, Scikit-learn  
+
+---
+
+### 🌍 Air Quality Prediction System
+Forecasts air quality levels using weather data and time-series models for environmental monitoring.
+
+**Tech:** Python, ML, Streamlit  
+
+---
+
+### 🏥 Healthcare RAG Chatbot
+Simple web application using RAG concepts to retrieve and answer healthcare-related queries.
+
+**Tech:** Python, RAG, Web App  
+
+---
+
+### 🔊 Smart Noise Pollution Monitoring
+IoT-based system to measure and visualize noise levels using map-based visualization.
+
+**Tech:** JavaScript, Firebase, Leaflet.js  
+
+---
+
+👉 View all repositories:  
 🔗 https://github.com/Venkatesh-107?tab=repositories
 
 ---
@@ -68,8 +79,8 @@ Git • GitHub • Firebase • Render • Railway
 
 ✔ Hands-on project experience  
 ✔ Strong learning mindset  
-✔ Interest in real-world problem solving  
-✔ Ability to integrate AI with web systems  
+✔ Interest in AI for real-world impact  
+✔ Experience with cloud deployment & APIs  
 
 ---
 
@@ -81,4 +92,4 @@ Git • GitHub • Firebase • Render • Railway
 
 ---
 
-⭐ *Open to learning opportunities, internships, and collaborative projects.*
+⭐ *Open to internships, collaborative projects, and continuous learning.*
