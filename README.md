@@ -1,62 +1,84 @@
 <h1 align="center">Hi 👋, I'm R Venkatesh</h1>
 
 <p align="center">
-  <i>B.Tech IT student at Annai Mira College of Engineering and Technology</i><br>
-  <i>Tech Explorer</i>
+  <b>B.Tech Information Technology Student</b><br>
+  Annai Mira College of Engineering and Technology (Anna University)<br>
+  AI • ML • Web Development • Problem Solving
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/venkatesh-r107">LinkedIn</a> •
+  💻 <a href="https://github.com/Venkatesh-107">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm pursuing a B.Tech in Information Technology from Annai Mira College of Engineering and Technology (affiliated with Anna University).  
-💡 I love building projects, exploring new tech, and solving real-world problems.  
-🎯 Currently learning: **Machine Learning**, **IoT**, and **Full Stack Web Development**.  
-🎬 Hobbies: Watching movies, playing cricket, and reading novels.
+I am an **Information Technology undergraduate** with a strong interest in **Artificial Intelligence, Machine Learning, and full-stack web development**.  
+I focus on **building practical, real-world projects** that solve meaningful problems, especially in **healthcare, agriculture, and environmental monitoring**.
+
+📌 Currently exploring:
+- Machine Learning & Data-Driven Models  
+- AI-powered Web Applications  
+- IoT-based monitoring systems  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Programming & Scripting**  
+Python • C • Java • JavaScript  
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Web Technologies**  
+HTML • CSS • JavaScript • Streamlit  
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+**AI / ML**  
+Machine Learning • Data Preprocessing • Model Evaluation • RAG Basics  
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Tools & Platforms**  
+Git • GitHub • Firebase • Render • Railway  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-107&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-107&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-107&layout=compact&theme=radical" height="165"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-107&show_icons=true&theme=radical" height="165">
-</p>
+
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Air Quality Predictor** | Forecasts air quality using weather + LSTM | Python, Streamlit, ML |
-| *Smart Noise Pollution ** | Determine the decibels level + Leaflit.js | javascript ,HTML,Firebase |
+| Project | Impact & Learning | Tech Stack |
+|-------|------------------|------------|
+| **AI Sugarcane Yield Prediction** 🌱 | Built a ML model to predict sugarcane yield using soil and weather parameters, helping understand agri-tech decision support systems | Python, ML, Pandas, Scikit-learn |
+| **Air Quality Prediction System** 🌍 | Forecasted air quality using weather data and time-series models for environmental monitoring | Python, ML, Streamlit |
+| **Healthcare RAG Chatbot** 🏥 | Developed a chatbot that retrieves and answers healthcare queries using RAG concepts | Python, RAG, Web App |
+| **Smart Noise Pollution Monitoring** 🔊 | Designed an IoT-based system to measure and visualize noise levels | JavaScript, Firebase, Leaflet.js |
+
+👉 **View all projects:**  
+🔗 https://github.com/Venkatesh-107?tab=repositories
+
+---
+
+## 🎯 What I Bring
+
+✔ Hands-on project experience  
+✔ Strong learning mindset  
+✔ Interest in real-world problem solving  
+✔ Ability to integrate AI with web systems  
 
 ---
 
 ## 📫 Connect With Me
 
-- [Linkedin](https://www.linkedin.com/in/venkatesh-r107)
-- [GitHub](https://github.com/Venkatesh-107)  
-- ✉️ Email:Venkateshvenky4910@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/venkatesh-r107  
+- 💻 GitHub: https://github.com/Venkatesh-107  
+- ✉️ Email: **Venkateshvenky4910@gmail.com**
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repos and connect with me.*  
+⭐ *Open to learning opportunities, internships, and collaborative projects.*
