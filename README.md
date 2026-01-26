@@ -9,26 +9,21 @@
   <i>AI • Machine Learning • Web Development • Problem Solving</i>
 </p>
 
-<!-- NORTH-ABYSS STYLE ICON LINKS -->
+<!-- STABLE SOCIAL LINKS (RECOMMENDED) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatesh-r107">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-venkatesh--r107-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Venkatesh-107">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github/ffffff"/>
+    <img src="https://img.shields.io/badge/GitHub-Venkatesh--107-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Venkateshvenky4910@gmail.com">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335"/>
+    <img src="https://img.shields.io/badge/Email-Venkateshvenky4910@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venkatesh-107&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 ## 🚀 About Me  
 
@@ -48,7 +43,7 @@ I am an **Information Technology undergraduate** passionate about building
 ## 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,streamlit,firebase,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,streamlit,firebase,git,github"/>
 </p>
 
 ---
@@ -99,7 +94,8 @@ Retrieval-based chatbot for healthcare queries.
 Noise-level visualization with map dashboards.  
 **Tech:** JavaScript, Firebase, Leaflet.js  
 
-👉 https://github.com/Venkatesh-107?tab=repositories  
+👉 View all repositories:  
+https://github.com/Venkatesh-107?tab=repositories  
 
 ---
 
@@ -121,7 +117,6 @@ Noise-level visualization with map dashboards.
 
 ## 📊 GitHub Analytics  
 
-<!-- STABLE STATS ONLY (NO CRASHING SERVICES) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-107&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-107&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -130,6 +125,15 @@ Noise-level visualization with map dashboards.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Venkatesh-107&theme=tokyonight&hide_border=true"/>
 </p>
+
+<!-- 🐍 CONTRIBUTION SNAKE (ADD AFTER WORKFLOW RUNS)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh-107/Venkatesh-107/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Venkatesh-107/Venkatesh-107/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+-->
 
 ---
 
